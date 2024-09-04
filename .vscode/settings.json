@@ -3,6 +3,7 @@
     "cumsum",
     "dtype",
     "fromarray",
+    "interp",
     "xlabel",
     "ylabel"
   ]
