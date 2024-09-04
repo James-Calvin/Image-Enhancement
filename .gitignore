@@ -57,3 +57,4 @@ python-env-tools/**
 
 # Output files
 *.jpg
+*.png
