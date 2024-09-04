@@ -52,8 +52,6 @@ python-env-tools/**
 
 # Assignment Files
 [Aa]ssignment2.pdf
-*.jpeg
-*.pgm
 
 # Output files
 *.jpg
